@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: 59ab67e282d22c94fb1dfca606b6a741
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cave - BigRocks1_3
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1020
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e403187e7500f6d469e63b80c31996f6
+      internalID: 1754214211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - BigRocks1_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 435
+        width: 735
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c540c17e11a3e243a1d47c53787d244
+      internalID: -1425027209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - BigRocks1_6
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 749
+        width: 387
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18ffaf945c894741a611123f023a084
+      internalID: -1463649364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - BigRocks1_10
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 804
+        width: 249
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852556dd5ff26fa4492f5fd537ae9e0c
+      internalID: -1633885718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - BigRocks1_12
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 467
+        width: 318
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e4a0125653d6641811503eef99aaea
+      internalID: -1318892018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - BigRocks1_24
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 12
+        width: 252
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848888cc22a7243499f5d63fe75c351c
+      internalID: -232032991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - BigRocks1_29
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 462
+        width: 580
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c721ddab6789c844b20880b9fb5460f
+      internalID: -1129089173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - BigRocks1_54
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 6
+        width: 694
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9129642fc04be7b4c99357c889d1962d
+      internalID: 712430605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - BigRocks1_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 365
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2422cc2de749756438a794b60556c341
+      internalID: 1318311611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - BigRocks1_58
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 7
+        width: 602
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3031a979b655940a9a6f203450c2d9
+      internalID: -124019927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - BigRocks1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 6
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9156260eda7df14f94dbeec678c8b3a
+      internalID: 1386922850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - BigRocks1_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ebaa404f139e84eb8cd3b0ca05bb97
+      internalID: -901879836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cave - BigRocks1_0: 423704569
+      Cave - BigRocks1_1: -1516641594
+      Cave - BigRocks1_10: -1633885718
+      Cave - BigRocks1_11: 1031115862
+      Cave - BigRocks1_12: -1318892018
+      Cave - BigRocks1_13: -1305837181
+      Cave - BigRocks1_14: -1168795516
+      Cave - BigRocks1_15: 1072263933
+      Cave - BigRocks1_16: 2056351409
+      Cave - BigRocks1_17: -1873977787
+      Cave - BigRocks1_18: 89093927
+      Cave - BigRocks1_19: -980288842
+      Cave - BigRocks1_2: 68718461
+      Cave - BigRocks1_20: -1664848572
+      Cave - BigRocks1_21: 1903730643
+      Cave - BigRocks1_22: 1340441167
+      Cave - BigRocks1_23: -1296471063
+      Cave - BigRocks1_24: -232032991
+      Cave - BigRocks1_25: 513824969
+      Cave - BigRocks1_26: -1745279733
+      Cave - BigRocks1_27: 1773852020
+      Cave - BigRocks1_28: 1888852244
+      Cave - BigRocks1_29: -1129089173
+      Cave - BigRocks1_3: 1754214211
+      Cave - BigRocks1_30: 1581517427
+      Cave - BigRocks1_31: 633177396
+      Cave - BigRocks1_32: -160867199
+      Cave - BigRocks1_33: -1804574813
+      Cave - BigRocks1_34: 799531352
+      Cave - BigRocks1_35: -2044761991
+      Cave - BigRocks1_36: 1340889187
+      Cave - BigRocks1_37: -2132534569
+      Cave - BigRocks1_38: -1381021022
+      Cave - BigRocks1_39: -24851704
+      Cave - BigRocks1_4: -1425027209
+      Cave - BigRocks1_40: -1411005311
+      Cave - BigRocks1_41: -1623030464
+      Cave - BigRocks1_42: -961369811
+      Cave - BigRocks1_43: 415886445
+      Cave - BigRocks1_44: -2023248292
+      Cave - BigRocks1_45: 2006040364
+      Cave - BigRocks1_46: 1655365081
+      Cave - BigRocks1_47: -34510140
+      Cave - BigRocks1_48: 65723419
+      Cave - BigRocks1_49: 743571004
+      Cave - BigRocks1_5: -669824741
+      Cave - BigRocks1_50: 172644588
+      Cave - BigRocks1_51: 1328947744
+      Cave - BigRocks1_52: 1148340941
+      Cave - BigRocks1_53: 513287975
+      Cave - BigRocks1_54: 712430605
+      Cave - BigRocks1_55: 1318311611
+      Cave - BigRocks1_56: -746260905
+      Cave - BigRocks1_57: 1504494384
+      Cave - BigRocks1_58: -124019927
+      Cave - BigRocks1_59: -2128566803
+      Cave - BigRocks1_6: -1463649364
+      Cave - BigRocks1_60: -943948703
+      Cave - BigRocks1_61: 1265585689
+      Cave - BigRocks1_62: 86625433
+      Cave - BigRocks1_63: 686775911
+      Cave - BigRocks1_64: 1386922850
+      Cave - BigRocks1_65: -1547446196
+      Cave - BigRocks1_66: 1878184523
+      Cave - BigRocks1_67: 130969624
+      Cave - BigRocks1_68: 1661080304
+      Cave - BigRocks1_69: -901879836
+      Cave - BigRocks1_7: 1974258059
+      Cave - BigRocks1_70: -743345317
+      Cave - BigRocks1_8: 367387353
+      Cave - BigRocks1_9: 1253836393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
